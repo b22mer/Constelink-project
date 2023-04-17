@@ -366,6 +366,14 @@
 
 ## 🎨 기능 상세 설명
 
+![홈-1](https://user-images.githubusercontent.com/74225835/232489758-206d35a4-2c1a-4a15-ba46-0aff0df237ed.PNG)
+![홈2](https://user-images.githubusercontent.com/74225835/232489805-a6d077d3-e35d-45af-8017-617fd80179a5.PNG)
+![기부메인1](https://user-images.githubusercontent.com/74225835/232489838-a71e3974-edd7-4df0-95ff-b8cb0fd318b5.PNG)
+![기부메인2](https://user-images.githubusercontent.com/74225835/232489855-cc2bce92-e7f8-4cf1-897d-e9d6e2597e37.PNG)
+
+![치료달성](https://user-images.githubusercontent.com/74225835/232489900-bc333c35-e700-4511-b984-f2140ef0d4dc.PNG)
+
+
 ### 👉 회원가입 , 로그인
 
 - 소셜로그인 (카카오, 구글)
@@ -373,6 +381,10 @@
 - 소셜로그인 정보를 토대로 회원가입
 
 - 회원정보 수정 가능
+<br/>
+
+![개인정보수정](https://user-images.githubusercontent.com/74225835/232489972-72552708-547e-434d-a9f9-347c6ac73aa9.PNG)
+
 
 
 <br/><br/><br/>
@@ -380,7 +392,11 @@
 ### 👉 공지사항
 
 - 공지사항을 통해 사이트의 소식을 접할 수 있음
+<br/>
 
+![공지사항](https://user-images.githubusercontent.com/74225835/232488441-a5681e9c-077f-4258-a1ab-2b7034460cae.PNG)
+![공지사항2](https://user-images.githubusercontent.com/74225835/232488457-7cd36877-95ce-4005-95c2-f55103fb4c4f.PNG)
+![공지사항3](https://user-images.githubusercontent.com/74225835/232488468-1a505d76-60a7-4830-a9e7-4c9499ade70f.PNG)
 
 <br/><br/><br/>
 
@@ -395,7 +411,12 @@
 - 기부한 내역은 블록체인에 기록됨
 
 - 기부 종료 시 해당 병원 지갑으로 기부금 자동 송금
+<br/>
 
+![모금](https://user-images.githubusercontent.com/74225835/232488969-8d75f8a6-52f4-4d05-b746-8ef30736db8d.PNG)
+![기부상세1](https://user-images.githubusercontent.com/74225835/232488853-045e16f6-c138-4e09-bc4d-28b335084fed.PNG)
+![모금직전](https://user-images.githubusercontent.com/74225835/232488874-84148ba9-6bd6-4412-8e2c-992af5f49242.PNG)
+![결제화면](https://user-images.githubusercontent.com/74225835/232489005-d7c22a61-6ea8-4c69-900f-461b506bba99.jpg)
 <br/><br/><br/>
 
 ### 👉 회복일지
@@ -409,13 +430,17 @@
 ### 👉 기부내역
 
 - 사용자가 기부한 기부 내역을 확인할 수 있음
+<br/>
 
+![마이페이지](https://user-images.githubusercontent.com/74225835/232489326-46f846f3-e94e-4fca-ae9c-3ffb562587af.PNG)
 <br/><br/><br/>
 
 ### 👉 통계
 
 - 현재 사이트에 기부된 총 기부액, 기부 횟수, 수혜자 등을 통계로 나타냄
+<br/>
 
+![홈2](https://user-images.githubusercontent.com/74225835/232489452-422c7e50-9f1f-4c18-9cbb-04ad8e2cbedf.PNG)
 <br/><br/><br/>
 
 ## 📢 Notion
